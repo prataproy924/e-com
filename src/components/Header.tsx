@@ -1,7 +1,7 @@
 
 export default function Header() {
   return (
-    <header className="bg-blue-200 ">
+    <header className="bg-blue-200 hover:bg-blue-300 shadow-md">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center ">
         <h1 className="text-xl font-bold">E-Com</h1>
         <nav>
